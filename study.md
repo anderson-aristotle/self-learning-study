@@ -53,7 +53,7 @@ Re-write this HTML/jQuery search using that formula:
 
 Let's say you're trying to search for "insert into ruby array" online. How could
 you write your search so that you only are shown results from
-[the ruby docs](ruby-doc.org)?
+[the ruby docs](https://ruby-doc.org)?
 
 ```md
 <!-- your answer here -->
