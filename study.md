@@ -26,7 +26,7 @@ the job.
 ## Required Readings
 
 - [Importance of Learning to Google Efficiently for a Programmer](https://softwareengineering.stackexchange.com/questions/65918/importance-of-learning-to-google-efficiently-for-a-programmer)
-   - *Look for the _checked_ answer*
+  - *Look for the _checked_ answer*
 - [Hasty Treat: Reading Documentation](https://syntax.fm/show/073/hasty-treat-reading-documentation)
 - [How to Google Programming Problems Effectively](https://realworldcoding.io/how-to-google-programming-problems-effectively-90f2a43ef982)
 - [Google-Fu](https://blog.codinghorror.com/google-fu/)
