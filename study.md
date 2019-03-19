@@ -36,7 +36,9 @@ the job.
 What are *three* common mistakes people make when trying to search online?
 
 ```md
-<!-- your answer here -->
+<!-- words not approperiate
+not accurratelty understanding your issue to Search
+wrong platform or language -->
 ```
 
 ## Research Formula
@@ -56,7 +58,7 @@ you write your search so that you only are shown results from
 [the ruby docs](https://ruby-doc.org)?
 
 ```md
-<!-- your answer here -->
+<!-- insert into ruby array site:ruby-doc.org -->
 ```
 
 ## Diving into Docs
@@ -91,7 +93,9 @@ Sometimes documentation isn't super helpful. Describe what you might do if you'r
 trying to learn something, but the documentation is getting you nowhere fast.
 
 ```md
-<!-- your answer here -->
+<!-- Look at github code
+ask people (codementors)
+read the source code -->
 ```
 
 ## StackOverflow
@@ -101,7 +105,9 @@ questions-and-answers. What are some ways you can utilize StackOverflow to find
 *the best* answers to your questions?
 
 ```md
-<!-- your answer here -->
+<!-- read the comments and see if someone recommends a cleaner way to do something
+look for answers that a lot of people recommend
+ -->
 ```
 
 ## The Point of All This
@@ -112,7 +118,7 @@ What should we achieve by the end of our research?
 *Hint: It's not "to find the solution"*
 
 ```md
-<!-- your answer here -->
+<!-- Learn how to understand the problem I'm solving. Understand the technology being used. -->
 ```
 
 ## Additional Resources
